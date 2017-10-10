@@ -1,0 +1,9 @@
+{
+  "firstname": "Samuel",
+  "lastname": "Jones",
+  "email": "demo@email.com",
+  "username": "demo",
+  "password": "sample1234",
+  "photo": null,
+  "address": "456 Kent Street, Sydney NSW 2000"
+}
