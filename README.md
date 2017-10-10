@@ -11,6 +11,8 @@
 
 **Step 3:** Install the Application with `yarn` or `npm i`
 
+**Step 4:** Link native modules with `react-native link`
+
 
 ## :arrow_forward: How to Run App
 
