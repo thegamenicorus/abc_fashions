@@ -25,3 +25,9 @@ First, make sure you're set up for [React Native](https://facebook.github.io/rea
   * for Android
     * Run Genymotion
     * run `react-native run-android`
+    
+## :arrow_forward: Demo account
+
+**Username:** demo
+
+**Password:** sample1234
