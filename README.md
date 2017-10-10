@@ -5,6 +5,8 @@
 
 ## :arrow_up: How to Setup
 
+First, make sure you're set up for [React Native](https://facebook.github.io/react-native/docs/getting-started.html#content) then do following step:
+
 **Step 1:** git clone this repo:
 
 **Step 2:** cd to the cloned repo:
